@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Chat Application project.**
+- 🔭 I’m currently working on **React projects.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
