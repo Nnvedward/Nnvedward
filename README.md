@@ -5,16 +5,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React projects.**
+- 🔭 I’m currently working on **NodeJS and ReactJS Projects.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-
 - 📫 How to reach me **nnvedward@gmail.com**
 
-- ⚡ Fun fact **I would've been a soccer player if not for JavaScript lol.**
+- ⚡ Fun fact **Impossible is a myth!**
 
 ## 🚀 Languages and Tools:
 
@@ -70,7 +69,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Nnvedward/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nnvedward">
 </a>
 <a href="https://github.com/Nnvedward?tab=followers"><img src="https://img.shields.io/github/followers/Nnvedward?label=Followers&style=social" alt="GitHub Badge"></a>
