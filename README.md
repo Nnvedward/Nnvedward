@@ -36,7 +36,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Nnvedward/github-readme-streak-stats">
+    <a href="https://github.com/Nnvemeka/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edward's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nnvedward&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -44,8 +44,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Nnvedward/github-readme-stats"><img alt="Edward's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nnvedward&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Nnvedward/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnvedward&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Nnvemeka/github-readme-stats"><img alt="Edward's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nnvemeka&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Nnvedward/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnvemeka&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Nnvedward/github-readme-activity-graph"><img alt="Edward's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nnvedward&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Nnvemeka/github-readme-activity-graph"><img alt="Edward's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nnvemeka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -69,7 +69,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Nnvedward/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Nnvedward">
+<a href="https://github.com/Nnvemeka/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Nnvemeka">
 </a>
-<a href="https://github.com/Nnvedward?tab=followers"><img src="https://img.shields.io/github/followers/Nnvedward?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Nnvemeka?tab=followers"><img src="https://img.shields.io/github/followers/Nnvemeka?label=Followers&style=social" alt="GitHub Badge"></a>
