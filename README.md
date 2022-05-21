@@ -1,6 +1,6 @@
 
  ### Hi there 👋
-🙋‍♂️ **About Me:** My name is Edward and I’m a Backend Engineer with 3 years of technical experience building scalable APIs and web apps.
+🙋‍♂️ **About Me:** My name is Edward and I’m a Backend Engineer with 2 years of technical experience building scalable APIs and web apps.
 - 🔭 I’m currently working on node JS and react Projects.
 - 🤔 I’m looking for help with Intermediate level roles
 - 🌱 I’m currently learning how to fly.
