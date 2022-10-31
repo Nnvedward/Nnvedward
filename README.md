@@ -1,7 +1,7 @@
 
  ### Hi there 👋
-🙋‍♂️ **About Me:** My name is Edward and I’m a Full stack developer with 2 years of technical experience building scalable APIs and web apps.
-- 🔭 I’m currently working on node JS and react Projects.
+🙋‍♂️ **About Me:** Front End Engineer with industry experience building websites and web applications.
+- 🔭 I’m currently working on React Projects.
 - 🤔 I’m looking for help with Intermediate level roles
 - 🌱 I’m currently learning how to fly.
 - 👯 I’m looking to collaborate on Open source Projects
