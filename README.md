@@ -1,6 +1,6 @@
 
  ### Hi there 👋
-🙋‍♂️ **About Me:** Front End Engineer with industry experience building websites and web applications.
+🙋‍♂️ **About Me:** Frontend Engineer with industry experience building websites and web applications.
 - 🔭 I’m currently working on React Projects.
 - 🤔 I’m looking for help with Intermediate level roles
 - 🌱 I’m currently learning how to fly.
